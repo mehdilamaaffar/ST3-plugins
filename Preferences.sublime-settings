@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Tomorrow (SL).tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_large": true,
+	"theme": "Spacegray Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
